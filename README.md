@@ -1,4 +1,6 @@
 # DIR-1253
-Close source Firmware D-Link DIR-1253 MESH that u can't find or release in anywhere, the firmware are produce by official Indonesian Vendor.
+D-Link DIR-1253 MESH Black version Firmware, that u can't find or release in anywhere.
 
 ![Lastest Firmware: DLINK_N2M_ID_V1.6.1684.bin](2025-02-21_screenshot.png)
+
+The reason is, you can find more at [zphr.xyz](https://zphr.xyz/posts/00/)
